@@ -1,4 +1,5 @@
-                                               ### Hi 👋 I'm Beyza
+  ###               Hi 👋 I'm Beyza
+  
 
 # 💫 About Me:
 👩‍💻 I am currently working on Java and Python.<br>🧐 I'm currently learning Java and Data Science.<br>💪🏻 And I'm also a social scientist.<br><br>📮 You can reach me here → beyzassti@gmail.com
